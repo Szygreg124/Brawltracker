@@ -4,4 +4,9 @@ body {
   margin: auto;
   max-width: 38rem;
   padding: 2rem;
+  background-color: darkblue;
+  background-image: url(../Images/BG_Temple\ Brawlhalla\ 2048\ x\ 1151\ _\ r_wallpapers.png);
+  background-size: 100%;
+  background-color: rgb(0, 2, 99);
+  background-blend-mode: multiply;
 }
