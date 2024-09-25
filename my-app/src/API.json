@@ -1,0 +1,141 @@
+{
+    "brawlhalla_id": 2,
+    "name": "bmg | dan",
+    "general_stats": {
+        "xp": 191718,
+        "level": 47,
+        "xp_percentage": 0.6252398209337,
+        "games": 8,
+        "wins": 2,
+        "damagebomb": 29,
+        "damagemine": 0,
+        "damagespikeball": 0,
+        "damagesidekick": 14,
+        "hitsnowball": 0,
+        "kobomb": 0,
+        "komine": 0,
+        "kospikeball": 0,
+        "kosidekick": 0,
+        "kosnowball": 0,
+        "legends": [
+            {
+                "legend_id": 30,
+                "legend_name_key": "val",
+                "damagedealt": 317,
+                "damagetaken": 458,
+                "kos": 0,
+                "falls": 3,
+                "suicides": 0,
+                "teamkos": 0,
+                "matchtime": 155,
+                "games": 3,
+                "wins": 0,
+                "damageunarmed": 15,
+                "damagethrownitem": 1,
+                "damageweaponone": 77,
+                "damageweapontwo": 224,
+                "damagegadgets": 0,
+                "kounarmed": 0,
+                "kothrownitem": 0,
+                "koweaponone": 0,
+                "koweapontwo": 0,
+                "kogadgets": 0,
+                "timeheldweaponone": 38,
+                "timeheldweapontwo": 97,
+                "xp": 97,
+                "level": 1,
+                "xp_percentage": 0.46190476190476
+            },
+            {
+                "legend_id": 29,
+                "legend_name_key": "wu shang",
+                "damagedealt": 0,
+                "damagetaken": 0,
+                "kos": 0,
+                "falls": 0,
+                "suicides": 0,
+                "teamkos": 0,
+                "matchtime": 0,
+                "games": 0,
+                "wins": 0,
+                "damageunarmed": 0,
+                "damagethrownitem": 0,
+                "damageweaponone": 0,
+                "damageweapontwo": 0,
+                "damagegadgets": 0,
+                "kounarmed": 0,
+                "kothrownitem": 0,
+                "koweaponone": 0,
+                "koweapontwo": 0,
+                "kogadgets": 0,
+                "timeheldweaponone": 0,
+                "timeheldweapontwo": 0,
+                "xp": 260,
+                "level": 2,
+                "xp_percentage": 0.13586956521739
+            }
+        ],
+        "clan": {
+            "clan_name": "Blue Mammoth Games",
+            "clan_id": 1,
+            "clan_xp": 86962,
+            "personal_xp": 4492
+        }
+    },
+    "ranked_stats": {
+        "rating": 1745,
+        "peak_rating": 1792,
+        "tier": "Platinum 2",
+        "wins": 207,
+        "games": 391,
+        "region": "US-E",
+        "global_rank": 5698,
+        "region_rank": 1644,
+        "legends": [
+            {
+                "legend_id": 4,
+                "legend_name_key": "cassidy",
+                "rating": 1736,
+                "peak_rating": 1792,
+                "tier": "Platinum 1",
+                "wins": 161,
+                "games": 300
+            },
+            {
+                "legend_id": 21,
+                "legend_name_key": "barraza",
+                "rating": 1640,
+                "peak_rating": 1640,
+                "tier": "Gold 5",
+                "wins": 41,
+                "games": 77
+            }
+        ],
+        "2v2": [
+            {
+                "brawlhalla_id_one": 2,
+                "brawlhalla_id_two": 9,
+                "rating": 793,
+                "peak_rating": 793,
+                "tier": "Tin 2",
+                "wins": 1,
+                "games": 1,
+                "teamname": "[BMG] Dan+[BMG] Dolchay",
+                "region": 2,
+                "global_rank": 423974
+            },
+            {
+                "brawlhalla_id_one": 1,
+                "brawlhalla_id_two": 2,
+                "rating": 789,
+                "peak_rating": 789,
+                "tier": "Tin 2",
+                "wins": 1,
+                "games": 1,
+                "teamname": "[BMG] Tyveris+[BMG] Dan",
+                "region": 2,
+                "global_rank": 430291
+            }
+        ]
+    }
+}
